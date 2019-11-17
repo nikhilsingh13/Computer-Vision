@@ -1,2 +1,2 @@
-# deep_learning_stuff
-Uploading articles related to Deep Learning
+# computer-vision
+Codes, Projects, Articles, Papers & other resources related to computer vision.
